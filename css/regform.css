@@ -1,0 +1,73 @@
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+    url("../images/bg.jpeg");
+  width: auto;
+  height: 97.8vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h4 {
+  font-size: 35px;
+  font-family: sans-serif;
+  text-align: center;
+}
+li,
+ul {
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+.line1 {
+  display: flex;
+}
+.line1 #studno {
+  margin-left: 45px;
+}
+.container1 {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
+.admin_btn {
+  margin-top: 10px;
+  margin-right: 30px;
+  padding: 10px;
+  background-color: lightblue;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.container3 {
+  padding-left: 29%;
+}
+.container2 {
+  width: 600px;
+  height: auto;
+  padding-left: 20px;
+  border-radius: 15px 15px 15px 15px;
+  border: 2px solid #fff;
+  background: rgba(255, 255, 255, 0.9);
+  color: black;
+}
+.ebtn {
+  display: block;
+  width: 20%;
+  padding: 10px;
+  background-color: rgb(22, 116, 148);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 460px;
+}
